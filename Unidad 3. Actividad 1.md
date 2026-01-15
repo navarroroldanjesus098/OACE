@@ -5,3 +5,8 @@
 <img width="1019" height="765" alt="imagen" src="https://github.com/user-attachments/assets/c0b7948f-ecb4-46c4-b817-fb043b2ee980" />
 <img width="1019" height="765" alt="imagen" src="https://github.com/user-attachments/assets/d9587f0c-cf40-4c8b-81a8-ff838c8019d9" />
 
+# Ejercicio 2
+
+<img width="972" height="509" alt="imagen" src="https://github.com/user-attachments/assets/a2c1ec3a-8d7c-4e64-843d-df624c49c2da" />
+<img width="969" height="506" alt="imagen" src="https://github.com/user-attachments/assets/ad52b40b-c0ea-4960-9ec4-b39fd114edf3" />
+<img width="1003" height="758" alt="imagen" src="https://github.com/user-attachments/assets/01e044b7-c666-4872-ab76-6b5c4c93d8f4" />

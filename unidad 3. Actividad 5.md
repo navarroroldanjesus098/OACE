@@ -7,3 +7,7 @@ Ejercicio 4. <img width="499" height="191" alt="imagen" src="https://github.com/
 <img width="564" height="278" alt="imagen" src="https://github.com/user-attachments/assets/6004605c-1061-43d3-a8fa-0b6c425213ea" />
 <img width="1002" height="109" alt="imagen" src="https://github.com/user-attachments/assets/e1d8d7c3-f295-46ea-b809-f8dbee861d36" />
 <img width="556" height="59" alt="imagen" src="https://github.com/user-attachments/assets/cbb1c152-c6ef-43b4-a2c4-e8df98d3d402" />
+<img width="330" height="150" alt="imagen" src="https://github.com/user-attachments/assets/f87f19e6-d2ec-4b4a-a75e-120481cf8a3b" />
+
+Ejercicio 2
+

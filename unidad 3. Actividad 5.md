@@ -12,3 +12,6 @@ Ejercicio 4. <img width="499" height="191" alt="imagen" src="https://github.com/
 Ejercicio 2
 
 <img width="676" height="401" alt="imagen" src="https://github.com/user-attachments/assets/6767c4a5-1f23-49de-a2b1-70f8ba0b5129" />
+<img width="676" height="134" alt="imagen" src="https://github.com/user-attachments/assets/340fca4c-886c-4970-b475-f861d28f147b" />
+<img width="676" height="210" alt="imagen" src="https://github.com/user-attachments/assets/f03f9772-6553-4f0c-accc-5413bdf18114" />
+<img width="676" height="293" alt="imagen" src="https://github.com/user-attachments/assets/3c9b523c-9b34-4113-a068-5a61ad60b617" />

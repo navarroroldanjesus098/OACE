@@ -9,8 +9,6 @@ ACTIVIDAD 1
 <img width="996" height="74" alt="imagen" src="https://github.com/user-attachments/assets/d318d3e8-ab81-4591-9a77-b5ead521dcc5" />
 <img width="996" height="96" alt="imagen" src="https://github.com/user-attachments/assets/cdf041ff-f34f-44fa-9bc7-6d07464b898c" />
 <img width="996" height="41" alt="imagen" src="https://github.com/user-attachments/assets/a9cae807-42ad-4a83-a3d0-0d83157d7cd6" />
-EJERCICIO 11
-
 <img width="996" height="39" alt="imagen" src="https://github.com/user-attachments/assets/995c2584-418c-4e57-b045-681a5c2e8b84" />
 <img width="996" height="142" alt="imagen" src="https://github.com/user-attachments/assets/452a14a2-9711-407e-999b-58bc520a85af" />
 <img width="996" height="40" alt="imagen" src="https://github.com/user-attachments/assets/719f4b65-bb42-4543-a5d5-9bce21ba76e6" />

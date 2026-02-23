@@ -10,3 +10,4 @@ Actividad 2
 <img width="516" height="109" alt="imagen" src="https://github.com/user-attachments/assets/bcc09fbf-68b2-4e13-844e-83b18c14c3fb" />
 <img width="655" height="39" alt="imagen" src="https://github.com/user-attachments/assets/847783f8-455c-463b-944b-ac7512838ea6" />
 <img width="655" height="202" alt="imagen" src="https://github.com/user-attachments/assets/f7b7e980-9f09-41e8-b1b9-9c8114d5fd5a" />
+<img width="874" height="88" alt="imagen" src="https://github.com/user-attachments/assets/269e7053-1579-4125-b0bb-e5c074abf20a" />

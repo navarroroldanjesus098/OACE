@@ -1,7 +1,9 @@
 Actividad 2 
 
-Ejercicio 1 <img width="894" height="48" alt="imagen" src="https://github.com/user-attachments/assets/f87e0767-681f-444c-a952-83a166bd5252" />
-Ejercicio 2<img width="855" height="392" alt="imagen" src="https://github.com/user-attachments/assets/0051ad55-0a88-4a55-b050-4e3fc7c26501" />
+Ejercicio 1
+<img width="894" height="48" alt="imagen" src="https://github.com/user-attachments/assets/f87e0767-681f-444c-a952-83a166bd5252" />
+Ejercicio 2
+<img width="855" height="392" alt="imagen" src="https://github.com/user-attachments/assets/0051ad55-0a88-4a55-b050-4e3fc7c26501" />
 <img width="592" height="911" alt="imagen" src="https://github.com/user-attachments/assets/edb2c439-a4ef-4690-a33d-34c8c507a58e" />
 <img width="592" height="114" alt="imagen" src="https://github.com/user-attachments/assets/0a12517b-3742-4ab6-9016-55f701970096" />
 <img width="592" height="74" alt="imagen" src="https://github.com/user-attachments/assets/2e7de605-1385-4ecf-bfb6-1dd5c8e1ba37" />

@@ -5,6 +5,7 @@ ACTIVIDAD 2
 Ejercicio 1
 
 <img width="437" height="323" alt="imagen" src="https://github.com/user-attachments/assets/8b7878c9-db07-400e-bec1-d4c99298c891" />
+
 Ejercicio 2
 
 <img width="632" height="96" alt="imagen" src="https://github.com/user-attachments/assets/956745a7-4fb3-4a19-873b-a3d0425050ce" />

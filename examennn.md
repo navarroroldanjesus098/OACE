@@ -8,7 +8,9 @@ EXAMEN UNIDAD 5
 <img width="608" height="547" alt="imagen" src="https://github.com/user-attachments/assets/4ed8f5b1-bce5-45ca-b2de-e6d74626d125" />
 <img width="608" height="36" alt="imagen" src="https://github.com/user-attachments/assets/e89f27e5-7f6f-4cd8-b5a9-4a8507d9ef7f" />
 <img width="608" height="20" alt="imagen" src="https://github.com/user-attachments/assets/8144f577-6be9-417a-b7a8-4cda412f3f59" />
+
 No tengo el ejercicio 9
+
 <img width="608" height="21" alt="imagen" src="https://github.com/user-attachments/assets/991f86cd-3d22-4346-ab2b-36a4163ccb84" />
 <img width="608" height="92" alt="imagen" src="https://github.com/user-attachments/assets/3debb68f-75d5-4395-b81c-797caeebcf7d" />
 <img width="608" height="77" alt="imagen" src="https://github.com/user-attachments/assets/992d52d4-9ac5-4e5e-aba6-708588f4bc7a" />

@@ -34,23 +34,28 @@ Ejercicio 8
 
 No tengo el ejercicio 9
 
-<img width="608" height="21" alt="imagen" src="https://github.com/user-attachments/assets/991f86cd-3d22-4346-ab2b-36a4163ccb84" />
-
 Ejercicio 10
 
-<img width="608" height="92" alt="imagen" src="https://github.com/user-attachments/assets/3debb68f-75d5-4395-b81c-797caeebcf7d" />
+<img width="608" height="21" alt="imagen" src="https://github.com/user-attachments/assets/991f86cd-3d22-4346-ab2b-36a4163ccb84" />
 
 Ejercicio 11
 
-<img width="608" height="77" alt="imagen" src="https://github.com/user-attachments/assets/992d52d4-9ac5-4e5e-aba6-708588f4bc7a" />
+<img width="608" height="92" alt="imagen" src="https://github.com/user-attachments/assets/3debb68f-75d5-4395-b81c-797caeebcf7d" />
 
 Ejercicio 12
 
-<img width="608" height="113" alt="imagen" src="https://github.com/user-attachments/assets/cfb8a0aa-cc3e-4300-9776-c52286ec3af6" />
+<img width="608" height="77" alt="imagen" src="https://github.com/user-attachments/assets/992d52d4-9ac5-4e5e-aba6-708588f4bc7a" />
 
 Ejercicio 13
 
+<img width="608" height="113" alt="imagen" src="https://github.com/user-attachments/assets/cfb8a0aa-cc3e-4300-9776-c52286ec3af6" />
+
+Ejercicio 14
+
 <img width="608" height="60" alt="imagen" src="https://github.com/user-attachments/assets/d50ef389-6439-4097-a40a-513044362618" />
 
+Ejercicio 15
+
+<img width="624" height="952" alt="imagen" src="https://github.com/user-attachments/assets/89fcb6f0-8772-485c-a433-f07d4fcbef58" />
 
 
